@@ -3,12 +3,12 @@ import ImageGallery from "react-image-gallery";
 import { Divider } from "antd";
 import styled from "styled-components";
 
-import GalleryPhoto1 from "../assets/snapImage01.png";
-import GalleryPhoto2 from "../assets/snapImage02.png";
-import GalleryPhoto3 from "../assets/snapImage03.png";
-import GalleryPhoto4 from "../assets/snapImage04.png";
-import GalleryPhoto5 from "../assets/snapImage05.png";
-import GalleryPhoto6 from "../assets/snapImage06.png";
+import snapImage01 from "../assets/snapImage01.png";
+import snapImage02 from "../assets/snapImage02.png";
+import snapImage03 from "../assets/snapImage03.png";
+import snapImage04 from "../assets/snapImage04.png";
+import snapImage05 from "../assets/snapImage05.png";
+import snapImage06 from "../assets/snapImage06.png";
 
 const Wrapper = styled.div`
   padding-top: 42px;
@@ -27,28 +27,28 @@ const Title = styled.p`
 
 const images = [
   {
-    original: GalleryPhoto1,
-    thumbnail: GalleryPhoto1,
+    original: snapImage01,
+    thumbnail: snapImage01,
   },
   {
-    original: GalleryPhoto2,
-    thumbnail: GalleryPhoto2,
+    original: snapImage02,
+    thumbnail: snapImage02,
   },
   {
-    original: GalleryPhoto3,
-    thumbnail: GalleryPhoto3,
+    original: snapImage03,
+    thumbnail: snapImage03,
   },
   {
-    original: GalleryPhoto4,
-    thumbnail: GalleryPhoto4,
+    original: snapImage04,
+    thumbnail: snapImage04,
   },
   {
-    original: GalleryPhoto5,
-    thumbnail: GalleryPhoto5,
+    original: snapImage05,
+    thumbnail: snapImage05,
   },
   {
-    original: GalleryPhoto6,
-    thumbnail: GalleryPhoto6,
+    original: snapImage06,
+    thumbnail: snapImage06,
   },
 ];
 
