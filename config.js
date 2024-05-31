@@ -6,14 +6,14 @@ export const KAKAOTALK_SHARE_IMAGE =
 export const WEDDING_DATE = "2024년 11월 16일, 토요일 오후 01시 49분";
 export const WEDDING_LOCATION = "더컨벤션영등포, 2층 다이너스홀";
 
-export const GROOM_NAME = "○○○";
+export const GROOM_NAME = "지승훈";
 export const GROOM_ACCOUNT_NUMBER = "○○은행 ***-***-******";
 export const GROOM_FATHER_NAME = "○○○";
 export const GROOM_FATHER_ACCOUNT_NUMBER = "○○은행 ***-***-******";
 export const GROOM_MOTHER_NAME = "○○○";
 export const GROOM_MOTHER_ACCOUNT_NUMBER = "○○은행 ***-***-******";
 
-export const BRIDE_NAME = "○○○";
+export const BRIDE_NAME = "원수정";
 export const BRIDE_ACCOUNT_NUMBER = "○○은행 ***-***-******";
 export const BRIDE_FATHER_NAME = "○○○";
 export const BRIDE_FATHER_ACCOUNT_NUMBER = "○○은행 ***-***-******";
