@@ -3,8 +3,8 @@ export const KAKAOTALK_API_TOKEN = "JavaScript 키 입력";
 export const KAKAOTALK_SHARE_IMAGE =
   "https://cdn.pixabay.com/photo/2014/11/13/17/04/heart-529607_960_720.jpg";
 
-export const WEDDING_DATE = "1970년 01월 01일, 목요일 오전 12시 00분";
-export const WEDDING_LOCATION = "○○○웨딩, ○층 ○○홀";
+export const WEDDING_DATE = "2024년 11월 16일, 토요일 오후 01시 49분";
+export const WEDDING_LOCATION = "더컨벤션영등포, 2층 다이너스홀";
 
 export const GROOM_NAME = "○○○";
 export const GROOM_ACCOUNT_NUMBER = "○○은행 ***-***-******";
