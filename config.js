@@ -8,14 +8,14 @@ export const WEDDING_LOCATION = "더컨벤션영등포, 2층 다이너스홀";
 
 export const GROOM_NAME = "지승훈";
 export const GROOM_ACCOUNT_NUMBER = "○○은행 ***-***-******";
-export const GROOM_FATHER_NAME = "○○○";
+export const GROOM_FATHER_NAME = "지수흥";
 export const GROOM_FATHER_ACCOUNT_NUMBER = "○○은행 ***-***-******";
-export const GROOM_MOTHER_NAME = "○○○";
+export const GROOM_MOTHER_NAME = "하춘자";
 export const GROOM_MOTHER_ACCOUNT_NUMBER = "○○은행 ***-***-******";
 
 export const BRIDE_NAME = "원수정";
 export const BRIDE_ACCOUNT_NUMBER = "○○은행 ***-***-******";
-export const BRIDE_FATHER_NAME = "○○○";
+export const BRIDE_FATHER_NAME = "원종선";
 export const BRIDE_FATHER_ACCOUNT_NUMBER = "○○은행 ***-***-******";
-export const BRIDE_MOTHER_NAME = "○○○";
+export const BRIDE_MOTHER_NAME = "김병순";
 export const BRIDE_MOTHER_ACCOUNT_NUMBER = "○○은행 ***-***-******";
