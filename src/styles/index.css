@@ -2,9 +2,7 @@
   --title-color: #d97d83;
 }
 * {
-  font-family: "Noto Serif KR", serif, -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Ownglyph_ryuttung-Rg";
 }
 
 /* 카카오맵 버튼 없애기 */
@@ -67,4 +65,11 @@
   font-weight: normal;
   font-style: normal;
   font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ownglyph_ryuttung-Rg';
+  src: url('../assets/fonts/Ownglyph_ryuttung-Rg') format('woff2');
+  font-weight: normal;
+  font-style: normal;
 }
