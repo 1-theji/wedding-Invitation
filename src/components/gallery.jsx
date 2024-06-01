@@ -8,7 +8,7 @@ import snapImage02 from "../assets/snapImage02.png";
 import snapImage03 from "../assets/snapImage03.png";
 import snapImage04 from "../assets/snapImage04.png";
 import snapImage05 from "../assets/snapImage05.png";
-import snapImage06 from "../assets/snapImage06.png";
+
 
 const Wrapper = styled.div`
   padding-top: 42px;
@@ -45,11 +45,7 @@ const images = [
   {
     original: snapImage05,
     thumbnail: snapImage05,
-  },
-  {
-    original: snapImage06,
-    thumbnail: snapImage06,
-  },
+  }
 ];
 
 const Gallery = () => {
