@@ -3,24 +3,24 @@ import ImageGallery from "react-image-gallery";
 import { Divider } from "antd";
 import styled from "styled-components";
 
-import IMG01 from "../assets/IMG01.png";
-import IMG02 from "../assets/IMG02.png";
-import IMG03 from "../assets/IMG03.png";
-import IMG04 from "../assets/IMG04.png";
-import IMG05 from "../assets/IMG05.png";
-import IMG06 from "../assets/IMG06.png";
-import IMG07 from "../assets/IMG07.png";
-import IMG08 from "../assets/IMG08.png";
-import IMG09 from "../assets/IMG09.png";
-import IMG10 from "../assets/IMG10.png";
-import IMG11 from "../assets/IMG11.png";
-import IMG12 from "../assets/IMG12.png";
-import IMG13 from "../assets/IMG13.png";
-import IMG14 from "../assets/IMG14.png";
-import IMG15 from "../assets/IMG15.png";
-import IMG16 from "../assets/IMG16.png";
-import IMG17 from "../assets/IMG17.png";
-import IMG18 from "../assets/IMG18.png";
+import IMG01 from "../assets/IMG01.jpg";
+import IMG02 from "../assets/IMG02.jpg";
+import IMG03 from "../assets/IMG03.jpg";
+import IMG04 from "../assets/IMG04.jpg";
+import IMG05 from "../assets/IMG05.jpg";
+import IMG06 from "../assets/IMG06.jpg";
+import IMG07 from "../assets/IMG07.jpg";
+import IMG08 from "../assets/IMG08.jpg";
+import IMG09 from "../assets/IMG09.jpg";
+import IMG10 from "../assets/IMG10.jpg";
+import IMG11 from "../assets/IMG11.jpg";
+import IMG12 from "../assets/IMG12.jpg";
+import IMG13 from "../assets/IMG13.jpg";
+import IMG14 from "../assets/IMG14.jpg";
+import IMG15 from "../assets/IMG15.jpg";
+import IMG16 from "../assets/IMG16.jpg";
+import IMG17 from "../assets/IMG17.jpg";
+import IMG18 from "../assets/IMG18.jpg";
 
 
 const Wrapper = styled.div`
