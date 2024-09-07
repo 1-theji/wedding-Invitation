@@ -24,13 +24,9 @@ import IMG18 from "../assets/IMG18.jpg";
 
 
 const Wrapper = styled.div`
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 700%;  /* 전체 화면 너비 차지 */
   padding-top: 42px;
-  background-color: white;  /* 배경색을 지정해 고정된 요소가 잘 보이도록 함 */
-  z-index: 1000;  /* 고정된 요소를 다른 요소보다 위에 표시 */
+  width: 70%;
+  margin: 0 auto;
 `;
 
 const Title = styled.p`
