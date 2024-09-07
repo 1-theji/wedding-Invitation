@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState}from "react";
 import ImageGallery from "react-image-gallery";
 import { Divider } from "antd";
 import styled from "styled-components";
